@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img width="auto" height="200px" /></center>
 문제해결을 좋아하는 개발자가 되고 싶은 강선영입니다.<br/><br/>
+
+
 <!--
-<!--아래는 편집 필요-->
 http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
 언제든 편하게 간단한 웹을 제작할 수 있습니다.<br/><br/>
 2차 도메인 요청하셔서 개인 홍보 웹을 만들어 보세요. 기본적으로 템플릿 여러가지를 제공해 드리겠습니다. <br/><br/>
