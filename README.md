@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img width="auto" height="200px" /></center>
 문제해결을 좋아하는 개발자가 되고 싶은 강선영입니다.<br/><br/>
+<!--
 <!--아래는 편집 필요-->
 http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
 언제든 편하게 간단한 웹을 제작할 수 있습니다.<br/><br/>
@@ -49,3 +49,4 @@ aebonlee - Overview
 kr.linkedin.comkr.linkedin.com
 이애본님 - SK Telecom | LinkedIn
 경력: SK Telecom · 학력: Kyonggi University · 지역: 대한민국 · LinkedIn의 33 1촌. LinkedIn에서 이애본 프로필 조회, 10억 명의 회원이 있는 전문가 커뮤니티.
+-->
