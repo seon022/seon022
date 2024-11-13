@@ -1,6 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=240&color=0:FFC0CB,100:87CEFA&text=Hello,%20I'm%20SeonYoung!&fontColor=FFFFFF)
 
+### FE Developer
+안녕하세요, 항상 새로운 것에 도전하는 강선영입니다!
+## SKILLS
 
-## 🌱 Currently Learning
+**Langs and Frameworks**
+
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
