@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20SeonYoung!&fontSize=60)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:87CEFA&height=300&section=header&text=Hello,%20I'm%20SeonYoung!&fontSize=60&fontColor=FFFFFF)
 ## 👋 FE Developer
 안녕하세요! 저는 사용자 경험을 중요시하는 프론트엔드 개발자 강선영입니다.
 
