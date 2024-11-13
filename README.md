@@ -25,7 +25,8 @@
 ## 🚀 Projects
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=seon022&show_icons=true&theme=radical)
+![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon022&show_icons=true&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon022&layout=donut)](https://github.com/seon022/github-readme-stats)
 
