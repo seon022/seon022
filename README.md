@@ -19,13 +19,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon022&show_icons=true&theme=tokyonight)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon022&layout=donut)](https://github.com/seon022/github-readme-stats)
-
